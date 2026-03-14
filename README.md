@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-This project presents a Power BI dashboard analyzing global retail sales performance using the Superstore dataset.
-The dashboard provides an executive overview of revenue, profitability, customer orders, and product performance across multiple regions.
+This project presents a Power BI dashboard analyzing global retail sales performance using the Superstore dataset. The dashboard provides an executive overview of revenue, profitability, customer orders, and product performance across multiple regions.
 
 The objective of this project is to demonstrate how business intelligence tools can transform raw sales data into meaningful insights for decision-making.
 
@@ -23,10 +22,10 @@ This dashboard answers key business questions such as:
 
 ## Key Insights
 
-- The **West region leads total revenue (~$0.7M)**, indicating strong customer demand and market penetration compared with other regions.
-- -* **Sales trends show periodic spikes**, suggesting seasonal demand patterns or the impact of promotional campaigns during certain periods.
-- A **small group of high-performing products contributes a large share of total revenue**, highlighting the importance of maintaining inventory availability and competitive pricing.
-- **Anomaly detection highlights unusual sales spikes**, which may indicate promotional events, sudden demand shifts, or operational disruptions.
+- The West region leads total revenue (~$0.7M), indicating strong customer demand and market penetration compared with other regions.
+- Sales trends show periodic spikes, suggesting seasonal demand patterns or the impact of promotional campaigns during specific periods.
+- A small group of high-performing products contributes a large share of total revenue, highlighting the importance of maintaining inventory availability and competitive pricing.
+- Anomaly detection highlights unusual sales spikes, which may indicate promotional events, sudden demand shifts, or operational disruptions requiring further investigation.
 
 ---
 
@@ -47,7 +46,7 @@ Superstore Sample Dataset (2014–2017)
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 
 ---
 
