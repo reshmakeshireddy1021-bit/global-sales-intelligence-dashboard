@@ -1,10 +1,27 @@
 # Global Sales Intelligence Dashboard (Power BI)
 
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellow)
+![DAX](https://img.shields.io/badge/Language-DAX-blue)
+![Business Intelligence](https://img.shields.io/badge/Category-Business%20Intelligence-green)
+![Data Visualization](https://img.shields.io/badge/Skill-Data%20Visualization-orange)
+
+---
+
 ## Project Overview
 
 This project presents a Power BI dashboard analyzing global retail sales performance using the Superstore dataset. The dashboard provides an executive overview of revenue, profitability, customer orders, and product performance across multiple regions.
 
-The objective of this project is to demonstrate how business intelligence tools can transform raw sales data into meaningful insights for decision-making.
+The objective of this project is to demonstrate how business intelligence tools can transform raw sales data into meaningful insights for business decision-making.
+
+---
+
+## Project Highlights
+
+- Built an executive-level Power BI dashboard analyzing global retail sales performance
+- Identified top-performing regions and products contributing to revenue growth
+- Analyzed sales trends over time with anomaly detection
+- Designed interactive filters for region and time analysis
+- Demonstrated business intelligence storytelling through data visualization
 
 ---
 
@@ -46,6 +63,8 @@ Superstore Sample Dataset (2014–2017)
 
 ## Dashboard Preview
 
+The dashboard provides an executive overview of sales performance, profitability, and product trends across multiple regions.
+
 ![Dashboard Preview](dashboard-preview.png)
 
 ---
@@ -58,3 +77,10 @@ Superstore Sample Dataset (2014–2017)
 - Anomaly Detection
 - Dashboard Design
 - Data Storytelling
+
+---
+
+## Author
+
+Reshma K  
+Data Analytics | Business Intelligence | Cybersecurity Analytics
