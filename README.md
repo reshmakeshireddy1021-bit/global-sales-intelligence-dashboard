@@ -80,7 +80,15 @@ The dashboard provides an executive overview of sales performance, profitability
 
 ---
 
-## Author
+---
 
-Reshma K  
-Data Analytics | Business Intelligence | Cybersecurity Analytics
+## 👤 Author
+
+**Reshma Keshireddy** — 
+*Cybersecurity & Data Analytics*
+
+LinkedIn: https://linkedin.com/in/reshma-keshireddy-1283b91b6
+
+GitHub: https://github.com/reshmakeshireddy1021-bit
+
+---
